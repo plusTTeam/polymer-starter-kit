@@ -1,7 +1,7 @@
 {
-  "name": "polymer-starter-kit",
+  "name": "plus-team-starter-kit",
   "authors": [
-    "The Polymer Authors"
+    "The +TeaM Developers"
   ],
   "license": "https://polymer.github.io/LICENSE.txt",
   "dependencies": {
@@ -15,7 +15,7 @@
     "iron-pages": "PolymerElements/iron-pages#^1.0.0",
     "iron-selector": "PolymerElements/iron-selector#^1.0.0",
     "paper-icon-button": "PolymerElements/paper-icon-button#~1.1.0",
-    "polymer": "Polymer/polymer#^1.6.0"
+    "polymer": "Polymer/polymer#^1.8.1"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"

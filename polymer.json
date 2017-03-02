@@ -8,7 +8,6 @@
     "src/views/my-view404.html"
   ],
   "sources": [
-    "src/**/*",
     "images/**/*",
     "bower.json"
   ],
