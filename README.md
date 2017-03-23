@@ -86,6 +86,14 @@ This command will run [Web Component Tester](https://github.com/Polymer/web-comp
 against the browsers currently installed on your machine:
 
     polymer test
+    
+#### Common Bugfixes
+
+When presenting an error with **Safari Test** check the following:
+ 
+- [x] In developer menu: Check "Allow remote automation" (Previously activating show developer menu in Advanced preferences).
+ 
+ There is no need to use Selenium Safari WebDriver, [because Webkit includes WebDriver now](https://webkit.org/blog/6900/webdriver-support-in-safari-10/).
 
 ### Adding a new view
 
